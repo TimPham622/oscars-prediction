@@ -1,0 +1,394 @@
+Year,Category,Film
+2025,Picture,Anora
+2025,Director,Anora
+2025,Actor,The Brutalist
+2025,Actress,Anora
+2025,SuppActor,A Real Pain
+2025,SuppActress,Emilia Pérez
+2024,Picture,Oppenheimer
+2024,Director,Oppenheimer
+2024,Actor,Oppenheimer
+2024,Actress,Poor Things
+2024,SuppActor,Oppenheimer
+2024,SuppActress,The Holdovers
+2023,Picture,Everything Everywhere All at Once
+2023,Director,Everything Everywhere All at Once
+2023,Actor,The Whale
+2023,Actress,Everything Everywhere All at Once
+2023,SuppActor,Everything Everywhere All at Once
+2023,SuppActress,Everything Everywhere All at Once
+2022,Picture,CODA
+2022,Director,The Power of the Dog
+2022,Actor,King Richard
+2022,Actress,The Eyes of Tammy Faye
+2022,SuppActor,CODA
+2022,SuppActress,West Side Story
+2021,Picture,Nomadland
+2021,Director,Nomadland
+2021,Actor,The Father
+2021,Actress,Nomadland
+2021,SuppActor,Judas and the Black Messiah
+2021,SuppActress,Minari
+2020,Picture,Parasite
+2020,Director,Parasite
+2020,Actor,Joker
+2020,Actress,Judy
+2020,SuppActor,Once upon a Time...in Hollywood
+2020,SuppActress,Marriage Story
+2019,Picture,Green Book
+2019,Director,Roma
+2019,Actor,Bohemian Rhapsody
+2019,Actress,The Favourite
+2019,SuppActor,Green Book
+2019,SuppActress,If Beale Street Could Talk
+2018,Picture,The Shape of Water
+2018,Director,The Shape of Water
+2018,Actor,Darkest Hour
+2018,Actress,"Three Billboards outside Ebbing, Missouri"
+2018,SuppActor,"Three Billboards outside Ebbing, Missouri"
+2018,SuppActress,"I, Tonya"
+2017,Picture,Moonlight
+2017,Director,La La Land
+2017,Actor,Manchester by the Sea
+2017,Actress,La La Land
+2017,SuppActor,Moonlight
+2017,SuppActress,Fences
+2016,Picture,Spotlight
+2016,Director,The Revenant
+2016,Actor,The Revenant
+2016,Actress,Room
+2016,SuppActor,Bridge of Spies
+2016,SuppActress,The Danish Girl
+2015,Picture,Birdman or (The Unexpected Virtue of Ignorance)
+2015,Director,Birdman or (The Unexpected Virtue of Ignorance)
+2015,Actor,The Theory of Everything
+2015,Actress,Still Alice
+2015,SuppActor,Whiplash
+2015,SuppActress,Boyhood
+2014,Picture,12 Years a Slave
+2014,Director,Gravity
+2014,Actor,Dallas Buyers Club
+2014,Actress,Blue Jasmine
+2014,SuppActor,Dallas Buyers Club
+2014,SuppActress,12 Years a Slave
+2013,Picture,Argo
+2013,Director,Life of Pi
+2013,Actor,Lincoln
+2013,Actress,Silver Linings Playbook
+2013,SuppActor,Django Unchained
+2013,SuppActress,Les Misérables
+2012,Picture,The Artist
+2012,Director,The Artist
+2012,Actor,The Artist
+2012,Actress,The Iron Lady
+2012,SuppActor,Beginners
+2012,SuppActress,The Help
+2011,Picture,The King's Speech
+2011,Director,The King's Speech
+2011,Actor,The King's Speech
+2011,Actress,Black Swan
+2011,SuppActor,The Fighter
+2011,SuppActress,The Fighter
+2010,Picture,The Hurt Locker
+2010,Director,The Hurt Locker
+2010,Actor,Crazy Heart
+2010,Actress,The Blind Side
+2010,SuppActor,Inglourious Basterds
+2010,SuppActress,Precious: Based on the Novel 'Push' by Sapphire
+2009,Picture,Slumdog Millionaire
+2009,Director,Slumdog Millionaire
+2009,Actor,Milk
+2009,Actress,The Reader
+2009,SuppActor,The Dark Knight
+2009,SuppActress,Vicky Cristina Barcelona
+2008,Picture,No Country for Old Men
+2008,Director,No Country for Old Men
+2008,Actor,There Will Be Blood
+2008,Actress,La Vie en Rose
+2008,SuppActor,No Country for Old Men
+2008,SuppActress,Michael Clayton
+2007,Picture,The Departed
+2007,Director,The Departed
+2007,Actor,The Last King of Scotland
+2007,Actress,The Queen
+2007,SuppActor,Little Miss Sunshine
+2007,SuppActress,Dreamgirls
+2006,Picture,Crash
+2006,Director,Brokeback Mountain
+2006,Actor,Capote
+2006,Actress,Walk the Line
+2006,SuppActor,Syriana
+2006,SuppActress,The Constant Gardener
+2005,Picture,Million Dollar Baby
+2005,Director,Million Dollar Baby
+2005,Actor,Ray
+2005,Actress,Million Dollar Baby
+2005,SuppActor,Million Dollar Baby
+2005,SuppActress,The Aviator
+2004,Picture,The Lord of the Rings: The Return of the King
+2004,Director,The Lord of the Rings: The Return of the King
+2004,Actor,Mystic River
+2004,Actress,Monster
+2004,SuppActor,Mystic River
+2004,SuppActress,Cold Mountain
+2003,Picture,Chicago
+2003,Director,The Pianist
+2003,Actor,The Pianist
+2003,Actress,The Hours
+2003,SuppActor,Adaptation
+2003,SuppActress,Chicago
+2002,Picture,A Beautiful Mind
+2002,Director,A Beautiful Mind
+2002,Actor,Training Day
+2002,Actress,Monster's Ball
+2002,SuppActor,Iris
+2002,SuppActress,A Beautiful Mind
+2001,Picture,Gladiator
+2001,Director,Traffic
+2001,Actor,Gladiator
+2001,Actress,Erin Brockovich
+2001,SuppActor,Traffic
+2001,SuppActress,Pollock
+2000,Picture,American Beauty
+2000,Director,American Beauty
+2000,Actor,American Beauty
+2000,Actress,Boys Don't Cry
+2000,SuppActor,The Cider House Rules
+2000,SuppActress,"Girl, Interrupted"
+1999,Picture,Shakespeare in Love
+1999,Director,Saving Private Ryan
+1999,Actor,Life Is Beautiful
+1999,Actress,Shakespeare in Love
+1999,SuppActor,Affliction
+1999,SuppActress,Shakespeare in Love
+1998,Picture,Titanic
+1998,Director,Titanic
+1998,Actor,As Good as It Gets
+1998,Actress,As Good as It Gets
+1998,SuppActor,Good Will Hunting
+1998,SuppActress,L.A. Confidential
+1997,Picture,The English Patient
+1997,Director,The English Patient
+1997,Actor,Shine
+1997,Actress,Fargo
+1997,SuppActor,Jerry Maguire
+1997,SuppActress,The English Patient
+1996,Picture,Braveheart
+1996,Director,Braveheart
+1996,Actor,Leaving Las Vegas
+1996,Actress,Dead Man Walking
+1996,SuppActor,The Usual Suspects
+1996,SuppActress,Mighty Aphrodite
+1995,Picture,Forrest Gump
+1995,Director,Forrest Gump
+1995,Actor,Forrest Gump
+1995,Actress,Blue Sky
+1995,SuppActor,Ed Wood
+1995,SuppActress,Bullets over Broadway
+1994,Picture,Schindler's List
+1994,Director,Schindler's List
+1994,Actor,Philadelphia
+1994,Actress,The Piano
+1994,SuppActor,The Fugitive
+1994,SuppActress,The Piano
+1993,Picture,Unforgiven
+1993,Director,Unforgiven
+1993,Actor,Scent of a Woman
+1993,Actress,Howards End
+1993,SuppActor,Unforgiven
+1993,SuppActress,My Cousin Vinny
+1992,Picture,The Silence of the Lambs
+1992,Director,The Silence of the Lambs
+1992,Actor,The Silence of the Lambs
+1992,Actress,The Silence of the Lambs
+1992,SuppActor,City Slickers
+1992,SuppActress,The Fisher King
+1991,Picture,Dances With Wolves
+1991,Director,Dances With Wolves
+1991,Actor,Reversal of Fortune
+1991,Actress,Misery
+1991,SuppActor,Good Fellas
+1991,SuppActress,Ghost
+1990,Picture,Driving Miss Daisy
+1990,Director,Born on the Fourth of July
+1990,Actor,My Left Foot
+1990,Actress,Driving Miss Daisy
+1990,SuppActor,Glory
+1990,SuppActress,My Left Foot
+1989,Picture,Rain Man
+1989,Director,Rain Man
+1989,Actor,Rain Man
+1989,Actress,The Accused
+1989,SuppActor,A Fish Called Wanda
+1989,SuppActress,The Accidental Tourist
+1988,Picture,The Last Emperor
+1988,Director,The Last Emperor
+1988,Actor,Wall Street
+1988,Actress,Moonstruck
+1988,SuppActor,The Untouchables
+1988,SuppActress,Moonstruck
+1987,Picture,Platoon
+1987,Director,Platoon
+1987,Actor,The Color of Money
+1987,Actress,Children of a Lesser God
+1987,SuppActor,Hannah and Her Sisters
+1987,SuppActress,Hannah and Her Sisters
+1986,Picture,Out of Africa
+1986,Director,Out of Africa
+1986,Actor,Kiss of the Spider Woman
+1986,Actress,The Trip to Bountiful
+1986,SuppActor,Cocoon
+1986,SuppActress,Prizzi's Honor
+1985,Picture,Amadeus
+1985,Director,Amadeus
+1985,Actor,Amadeus
+1985,Actress,Places in the Heart
+1985,SuppActor,The Killing Fields
+1985,SuppActress,A Passage to India
+1984,Picture,Terms of Endearment
+1984,Director,Terms of Endearment
+1984,Actor,Tender Mercies
+1984,Actress,Terms of Endearment
+1984,SuppActor,Terms of Endearment
+1984,SuppActress,The Year of Living Dangerously
+1983,Picture,Gandhi
+1983,Director,Gandhi
+1983,Actor,Gandhi
+1983,Actress,Sophie's Choice
+1983,SuppActor,An Officer and a Gentleman
+1983,SuppActress,Tootsie
+1982,Picture,Chariots of Fire
+1982,Director,Reds
+1982,Actor,On Golden Pond
+1982,Actress,On Golden Pond
+1982,SuppActor,Arthur
+1982,SuppActress,Reds
+1981,Picture,Ordinary People
+1981,Director,Ordinary People
+1981,Actor,Raging Bull
+1981,Actress,Coal Miner's Daughter
+1981,SuppActor,Ordinary People
+1981,SuppActress,Melvin and Howard
+1980,Picture,Kramer vs. Kramer
+1980,Director,Kramer vs. Kramer
+1980,Actor,Kramer vs. Kramer
+1980,Actress,Norma Rae
+1980,SuppActor,Being There
+1980,SuppActress,Kramer vs. Kramer
+1979,Picture,The Deer Hunter
+1979,Director,The Deer Hunter
+1979,Actor,Coming Home
+1979,Actress,Coming Home
+1979,SuppActor,The Deer Hunter
+1979,SuppActress,California Suite
+1978,Picture,Annie Hall
+1978,Director,Annie Hall
+1978,Actor,The Goodbye Girl
+1978,Actress,Annie Hall
+1978,SuppActor,Julia
+1978,SuppActress,Julia
+1977,Picture,Rocky
+1977,Director,Rocky
+1977,Actor,Network
+1977,Actress,Network
+1977,SuppActor,All the President's Men
+1977,SuppActress,Network
+1976,Picture,One Flew over the Cuckoo's Nest
+1976,Director,One Flew over the Cuckoo's Nest
+1976,Actor,One Flew over the Cuckoo's Nest
+1976,Actress,One Flew over the Cuckoo's Nest
+1976,SuppActor,The Sunshine Boys
+1976,SuppActress,Shampoo
+1975,Picture,The Godfather Part II
+1975,Director,The Godfather Part II
+1975,Actor,Harry and Tonto
+1975,Actress,Alice Doesn't Live Here Anymore
+1975,SuppActor,The Godfather Part II
+1975,SuppActress,Murder on the Orient Express
+1974,Picture,The Sting
+1974,Director,The Sting
+1974,Actor,Save the Tiger
+1974,Actress,A Touch of Class
+1974,SuppActor,The Paper Chase
+1974,SuppActress,Paper Moon
+1973,Picture,The Godfather
+1973,Director,Cabaret
+1973,Actor,The Godfather
+1973,Actress,Cabaret
+1973,SuppActor,Cabaret
+1973,SuppActress,Butterflies Are Free
+1972,Picture,The French Connection
+1972,Director,The French Connection
+1972,Actor,The French Connection
+1972,Actress,Klute
+1972,SuppActor,The Last Picture Show
+1972,SuppActress,The Last Picture Show
+1971,Picture,Patton
+1971,Director,Patton
+1971,Actor,Patton
+1971,Actress,Women in Love
+1971,SuppActor,Ryan's Daughter
+1971,SuppActress,Airport
+1970,Picture,Midnight Cowboy
+1970,Director,Midnight Cowboy
+1970,Actor,True Grit
+1970,Actress,The Prime of Miss Jean Brodie
+1970,SuppActor,"They Shoot Horses, Don't They?"
+1970,SuppActress,Cactus Flower
+1969,Picture,Oliver!
+1969,Director,Oliver!
+1969,Actor,Charly
+1969,Actress,The Lion in Winter
+1969,SuppActor,The Subject Was Roses
+1969,SuppActress,Rosemary's Baby
+1968,Picture,In the Heat of the Night
+1968,Director,The Graduate
+1968,Actor,In the Heat of the Night
+1968,Actress,Guess Who's Coming to Dinner
+1968,SuppActor,Cool Hand Luke
+1968,SuppActress,Bonnie and Clyde
+1967,Picture,A Man for All Seasons
+1967,Director,A Man for All Seasons
+1967,Actor,A Man for All Seasons
+1967,Actress,Who's Afraid of Virginia Woolf?
+1967,SuppActor,The Fortune Cookie
+1967,SuppActress,Who's Afraid of Virginia Woolf?
+1966,Picture,The Sound of Music
+1966,Director,The Sound of Music
+1966,Actor,Cat Ballou
+1966,Actress,Darling
+1966,SuppActor,A Thousand Clowns
+1966,SuppActress,A Patch of Blue
+1965,Picture,My Fair Lady
+1965,Director,My Fair Lady
+1965,Actor,My Fair Lady
+1965,Actress,Mary Poppins
+1965,SuppActor,Topkapi
+1965,SuppActress,Zorba the Greek
+1964,Picture,Tom Jones
+1964,Director,Tom Jones
+1964,Actor,Lilies of the Field
+1964,Actress,Hud
+1964,SuppActor,Hud
+1964,SuppActress,The V.I.P.s
+1963,Picture,Lawrence of Arabia
+1963,Director,Lawrence of Arabia
+1963,Actor,To Kill a Mockingbird
+1963,Actress,The Miracle Worker
+1963,SuppActor,Sweet Bird of Youth
+1963,SuppActress,The Miracle Worker
+1962,Director,West Side Story
+1962,Actor,Judgment at Nuremberg
+1962,Actress,Two Women
+1962,SuppActor,West Side Story
+1962,SuppActress,West Side Story
+1961,Director,The Apartment
+1961,Actor,Elmer Gantry
+1961,Actress,Butterfield 8
+1961,SuppActor,Spartacus
+1961,SuppActress,Elmer Gantry
+1960,Director,Ben-Hur
+1960,Actor,Ben-Hur
+1960,Actress,Room at the Top
+1960,SuppActor,Ben-Hur
+1960,SuppActress,The Diary of Anne Frank

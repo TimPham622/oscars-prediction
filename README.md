@@ -2,11 +2,9 @@
 
 hi! this is my little oscars prediction project.
 
-i made this to mash together betting odds + old oscar results and see what movies are most likely to win in each main category. it is not a production thing, just a data project that works with csv files and some python scripts.
-
 ---
 
-## what this project does (in plain english)
+## what this project does
 
 - takes historical oscar winner data
 - cleans it to only the categories i care about
@@ -15,53 +13,6 @@ i made this to mash together betting odds + old oscar results and see what movie
 - runs monte carlo simulation (10,000 runs)
 - outputs a table of win probabilities by film/category
 - can draw heatmaps so it's easier to look at
-
----
-
-## stack / dependencies
-
-python with:
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scipy (used in algorithm)
-
-`requirements.txt` has most of these, but if scipy is missing for your environment, install it manually.
-
-example:
-
-```bash
-pip install -r requirements.txt
-pip install scipy
-```
-
----
-
-## project layout
-
-```text
-oscars-prediction/
-├── data/
-│   ├── raw/
-│   │   ├── the_oscar_award.csv
-│   │   ├── oscars_nominees.csv
-│   │   └── predictions.csv
-│   └── processed/
-│       ├── cleaned_oscars.csv
-│       ├── correlation_matrix.csv
-│       ├── oscars.csv
-│       └── results.csv
-├── src/
-│   ├── cleaning.py
-│   ├── correlation.py
-│   ├── deVig.py
-│   ├── algorithm.py
-│   └── visualise.py
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -145,26 +96,7 @@ python src/visualise.py
 - some scripts still use absolute paths from my machine (`/Users/timot/...`), so you may need to switch them to relative paths.
 - scripts are not packaged as functions/cli yet, just run top-to-bottom.
 - `results.csv` is saved without explicit film name column (row index issue), so keep that in mind when reading it.
-- no automated tests yet.
-
----
-
-## troubleshooting
-
-### matplotlib window does not show
-if you're on headless server, plots might not pop up. either:
-- skip plotting scripts
-- or switch matplotlib backend/save figures instead of `plt.show()`
-
-### module not found
-install deps manually:
-
-```bash
-pip install pandas numpy matplotlib seaborn scipy
-```
-
-### file path errors
-make sure you are running commands from repository root and check absolute paths in script files.
+- no automated tests yet
 
 ---
 
@@ -176,10 +108,4 @@ make sure you are running commands from repository root and check absolute paths
 - add tests for data shape and probability sums
 - save chart images to files automatically
 - improve docstrings/comments in source
-
----
-
-## disclaimer
-
-this is a fun forecasting project and not financial advice etc. odds move, nominations change, model assumptions are simplistic, and randomness is involved.
 

@@ -3,6 +3,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
+
 df_hist = pd.read_csv('data/processed/cleaned_oscars.csv')
 df_wide = df_hist.pivot(index='Year', columns='Category', values='Film')
 

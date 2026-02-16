@@ -1,9 +1,9 @@
 # oscars-prediction
 
 hi! this is my little oscars prediction project.
-![Findings of the predictions](Figure_1.png)
+![Findings of the predictions](reports/figures/Figure_1.png)
 
-![Findings of the predictions](Figure_2.png)
+![Findings of the predictions](reports/figures/Figure_2.png)
 
 ---
 
